@@ -95,7 +95,6 @@
 .nav__link {
   text-decoration: none;
   color: black;
-  /*font styles*/
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -148,6 +147,7 @@
   max-width: 480px;
   height: 273px;
   bottom: 215px;
+  border: 0px;
 }
 
 .recipes__video-caption {
